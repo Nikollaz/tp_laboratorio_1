@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1473813697 source:c:\users\alumno\desktop\clase 9\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1473813492 c:\users\alumno\desktop\clase 9\tp_2_cascara\funciones.h
+
+1473813639 source:c:\users\alumno\desktop\clase 9\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1473879157 source:c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1473877050 c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp2\funciones.h
+
+1473877033 source:c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474415456 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1473877052 c:\users\alumno\desktop\tp2\funciones.h
+
+1474415008 source:c:\users\alumno\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+

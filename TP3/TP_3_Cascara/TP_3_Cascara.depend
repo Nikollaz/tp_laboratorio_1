@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1478387064 source:c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utnEN.h"
+
+1478382115 c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp3\tp_3_cascara\funciones.h
+
+1478386588 source:c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp3\tp_3_cascara\utnen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utnEN.h"
+
+1475679802 c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp3\tp_3_cascara\utnen.h
+
+1478388086 source:c:\users\nicolas\desktop\programacion\1_laboratorio-programacion1\segunda cursada\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utnEN.h"
+
+1478388602 source:f:\programacion i\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utnEN.h"
+
+1478388602 f:\programacion i\tp3\tp_3_cascara\funciones.h
+
+1478388602 f:\programacion i\tp3\tp_3_cascara\utnen.h
+
+1478388602 source:f:\programacion i\tp3\tp_3_cascara\utnen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utnEN.h"
+
+1479835210 source:f:\programacion i\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utnEN.h"
+
+1479837662 source:c:\users\nicolas\desktop\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"utnEN.h"
+
+1478388602 c:\users\nicolas\desktop\tp3\tp_3_cascara\funciones.h
+
+1478388602 c:\users\nicolas\desktop\tp3\tp_3_cascara\utnen.h
+
+1478388602 source:c:\users\nicolas\desktop\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utnEN.h"
+
+1478388602 source:c:\users\nicolas\desktop\tp3\tp_3_cascara\utnen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utnEN.h"
+
